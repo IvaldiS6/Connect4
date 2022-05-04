@@ -6,8 +6,13 @@ A collaborative effort by the members of <server name> on discord.  This will be
 Build notes and TO DOs:
   
   write the program
+  
   Create SPL trophy tokens
+  
   Are we going to make SPL game tokens, or do they buy spaces with SOL?
+  
     will they be able to be customizable with the owners NFT art, or are we providing the art for the 2 players
+  
   will it be possible to modify the Solana escrow program template for this?
+  
   ???
